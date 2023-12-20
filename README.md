@@ -1,1 +1,1 @@
-# eas-pweb
+# latihan-pra-eas
